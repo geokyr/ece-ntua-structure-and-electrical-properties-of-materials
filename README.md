@@ -1,4 +1,4 @@
 materials
 ---------
 
-Repository for the Structural and Electronic Properties of Materials course.
+Repository for the Structure and Electrical Properties of Materials course.
