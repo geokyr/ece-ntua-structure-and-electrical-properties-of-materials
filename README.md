@@ -2,6 +2,11 @@
 
 Semester Project and Lab Assignments for the [Structure and Electrical Properties of Materials](https://www.ece.ntua.gr/en/undergraduate/courses/3375) course, during the 2nd semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
+## Team Members
+
+- [Georgios Kyriakopoulos](https://github.com/geokyr)
+- [Gerasimos Deligiannis](https://github.com/GerasimosDel)
+
 ## Semester Project
 
 The semester project aimed at giving a practical insight on the electrical properties of materials. The project was divided into five questions, that covered the topics that follow.
