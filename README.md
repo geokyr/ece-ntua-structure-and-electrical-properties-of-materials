@@ -9,13 +9,15 @@ Semester Project and Lab Assignments for the [Structure and Electrical Propertie
 
 ## Semester Project
 
-The semester project aimed at giving a practical insight on the electrical properties of materials. The project was divided into five questions, that covered the topics that follow.
+The semester project aimed at giving a practical insight on the electrical properties of materials. The project was divided into five problems, that covered the topics that follow.
 
 - Energy Gaps in Semiconductors
 - Fermi-Dirac Distribution
 - Electron and Hole Density in Semiconductors
 - Law of Mass Action
 - Electron Density in Impure Semiconductors
+
+To solve some of the problems, [MATLAB](https://www.mathworks.com/products/matlab.html) was used, to simulate scenarios and produce graphs.
 
 ## Lab Assignments
 
