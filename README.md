@@ -1,4 +1,4 @@
-# ece-ntua-structure-and-electrical-properties-of-materials
+# structure-and-electrical-properties-of-materials
 
 Semester Project and Lab Assignments for the [Structure and Electrical Properties of Materials](https://www.ece.ntua.gr/en/undergraduate/courses/3375) course, during the 2nd semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
